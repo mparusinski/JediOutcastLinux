@@ -1,0 +1,2 @@
+* It seems that the game saves pointer to variables:
+  If so I will have to find a way to get a cross-platform way of saving
