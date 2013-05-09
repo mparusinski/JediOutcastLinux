@@ -1,1 +1,4 @@
 * Make saving files cross platform from 32 bits to 64 bits
+* Set MMX for linux at runtime not compile time
+* Set MMX for processor supporting it
+* Fix something with the myftol functions
